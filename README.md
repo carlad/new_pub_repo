@@ -4,4 +4,4 @@ hh
 
 sdui
 
-quarter
+half
